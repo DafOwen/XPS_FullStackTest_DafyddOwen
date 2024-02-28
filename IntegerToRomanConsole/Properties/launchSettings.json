@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntegerToRomanConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "1234"
+    }
+  }
+}
